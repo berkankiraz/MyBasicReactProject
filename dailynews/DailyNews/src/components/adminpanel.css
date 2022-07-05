@@ -1,0 +1,34 @@
+button{
+  background-color: rgb(99, 63, 10); /* Green */
+  font-size: 16px;
+  border-radius: 5px;
+  padding-inline: 20px;
+  padding-block: 8px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+
+}
+button:hover{
+  
+  background-color: rgb(66, 73, 80); /* Green */
+  font-size: 16px;
+  border-radius: 5px;
+
+
+}
+.adminpanelcontainer{
+    display: flex;
+    justify-content: center;
+}
+#contentid{
+    height: 250px;
+}
+#contentid2{
+  height: 250px;
+}
+input{
+    display: block;
+    width: 450px;
+    height: 40px;
+}
+

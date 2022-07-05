@@ -1,0 +1,19 @@
+.myinputdiv{
+    display: flex;
+    justify-content: center;
+}
+
+.homeinput{
+    margin-top: 50px;
+    border-radius: 30px;
+    border-width: 5px;
+    border-color: brown;
+    text-align: center;
+}
+
+
+#homesendbutton{
+
+    margin-top: 50px;
+    color: brown;
+}
