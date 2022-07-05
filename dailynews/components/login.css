@@ -1,0 +1,16 @@
+.formlogin{
+
+  display: flex;
+  justify-content: center;
+}
+
+.logindiv{
+
+  border-style: solid;
+  border-radius: 50 px;
+  margin: 15px;
+  margin-top: 150px;
+  border-color: black ;
+  
+}
+
