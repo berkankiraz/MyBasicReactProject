@@ -18,6 +18,7 @@
 # 5.DailyNEWS
 ![image](https://user-images.githubusercontent.com/63494351/177314537-27f0abf1-0232-4242-b447-fbf33bce34ef.png)
 
+![image](https://user-images.githubusercontent.com/63494351/177315093-9f9d9483-f878-4f1d-a9e0-8689a0a161fe.png)
 
 
 
