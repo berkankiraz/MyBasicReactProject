@@ -21,4 +21,9 @@
 ![image](https://user-images.githubusercontent.com/63494351/177315093-9f9d9483-f878-4f1d-a9e0-8689a0a161fe.png)
 
 
+# 5.WordWord
+You can add english words that you do not know.
+![image](https://user-images.githubusercontent.com/63494351/189730313-03113b60-d934-428f-8062-f4fb886d8926.png)
+
+
 
